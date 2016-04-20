@@ -1,0 +1,2 @@
+# WNotificationTest
+iOSのnotificationとiPhone-AppleWatch連携のテスト
